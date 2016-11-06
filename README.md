@@ -1,2 +1,3 @@
 # hello-world
-First Repository
+I am learning code
+One day I will be a very sucessful tech powerhouse!
